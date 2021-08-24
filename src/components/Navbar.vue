@@ -22,7 +22,7 @@ export default {
       links: [
         { id: 1, name: "Start", link: "#start" },
         { id: 2, name: "O nas", link: "#o-nas" },
-        { id: 3, name: "Oferta", link: "#" },
+        { id: 3, name: "Oferta", link: "#oferta" },
         { id: 4, name: "Zespół", link: "#" },
         { id: 5, name: "Szkolenia", link: "#" },
         { id: 6, name: "Prasa", link: "#" },

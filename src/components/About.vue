@@ -47,12 +47,13 @@ section {
 .about {
   width: 80%;
   text-align: center;
-  padding: 5rem 0rem;
+  padding: 10rem 0rem;
 }
 
 h4 {
   font-style: italic;
 }
+
 h4::before {
   content: "";
   display: inline-block;

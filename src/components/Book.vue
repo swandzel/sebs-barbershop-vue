@@ -30,9 +30,9 @@
 <script>
 import Button from "./Button.vue";
 export default {
+  name: "Book",
   data() {
     return {
-      name: "Book",
       buttonText: "Zarezerwuj termin",
     };
   },
