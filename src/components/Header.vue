@@ -4,13 +4,20 @@
       <h2>Cracow's Barber</h2>
       <h4>Since 2010</h4>
     </div>
-    <button>Zarezerwuj termin</button>
+    <Button :buttonText="buttonText" />
   </header>
 </template>
 
 <script>
+import Button from "./Button.vue";
 export default {
+  data() {
+    return {
+      buttonText: "Zarezerwuj termin",
+    };
+  },
   name: "Header",
+  components: { Button },
 };
 </script>
 
@@ -42,19 +49,6 @@ h2 {
 }
 h4 {
   font-size: 2rem;
-}
-button {
-  color: #e7ecef;
-  border: 2px solid #e7ecef;
-  font-size: 2rem;
-  background-color: transparent;
-  padding: 10px 20px;
-  margin-top: 2rem;
-  cursor: pointer;
-  text-align: center;
-}
-button:hover {
-  background-color: #e7ecef;
-  color: black;
+  letter-spacing: 6px;
 }
 </style>

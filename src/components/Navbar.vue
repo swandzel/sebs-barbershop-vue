@@ -2,6 +2,7 @@
   <nav>
     <div class="navbar">
       <div class="logo">
+        <!-- <img src="../assets/barber.svg" color="#fff" width="30" /> -->
         Seb's Barbershop
       </div>
       <ul class="navbar--links">

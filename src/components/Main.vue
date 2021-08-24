@@ -1,14 +1,16 @@
 <template>
   <main>
     <About />
+    <Book />
   </main>
 </template>
 
 <script>
 import About from "./About.vue";
+import Book from "./Book.vue";
 export default {
   name: "Main",
-  components: { About },
+  components: { About, Book },
 };
 </script>
 
