@@ -23,10 +23,9 @@ export default {
         { id: 1, name: "Start", link: "#start" },
         { id: 2, name: "O nas", link: "#o-nas" },
         { id: 3, name: "Oferta", link: "#oferta" },
-        { id: 4, name: "Zespół", link: "#" },
-        { id: 5, name: "Szkolenia", link: "#" },
-        { id: 6, name: "Prasa", link: "#" },
-        { id: 7, name: "Kontakt", link: "#" },
+        { id: 4, name: "Zespół", link: "#zespol" },
+        { id: 5, name: "Szkolenia", link: "#szkolenia" },
+        { id: 6, name: "Kontakt", link: "#kontakt" },
       ],
     };
   },

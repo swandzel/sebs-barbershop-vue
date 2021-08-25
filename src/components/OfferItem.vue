@@ -1,6 +1,6 @@
 <template>
   <div class="offer--item">
-    <img src="image" />
+    <img :src="image" />
     <!-- <h4>CUTS</h4>
     <p>Klasyczne strzyżenie (30 min.) 50 zł</p>
     <p>Królewskie strzyżenie (60 min.) 70</p> -->
@@ -45,7 +45,7 @@ export default {
 img {
   width: 100px;
   height: auto;
-  margin: 80px 0px;
+  margin: 80px 0px 40px 0px;
 }
 
 h4 {
@@ -54,7 +54,7 @@ h4 {
 }
 
 p {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: bold;
   margin-bottom: 1rem;
 }

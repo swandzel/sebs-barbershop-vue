@@ -1,6 +1,6 @@
 <template>
   <footer>
-    Created by swandzel.pl
+    made by swandzel using vue3
   </footer>
 </template>
 
@@ -15,6 +15,7 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background: darkolivegreen;
+  background: #000;
+  color: #e7ecef;
 }
 </style>
