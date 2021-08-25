@@ -12,11 +12,11 @@ import Main from "./components/Main.vue";
 import Footer from "./components/Footer.vue";
 export default {
   components: { Navbar, Header, Main, Footer },
-  methods: {
-    scroll: new SmoothScroll('a[href*="#"]', {
-      speed: 1000,
-    }),
-  },
+  // methods: {
+  //   scroll: new SmoothScroll('a[href*="#"]', {
+  //     speed: 1000,
+  //   }),
+  // },
 };
 </script>
 
