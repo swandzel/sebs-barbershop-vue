@@ -15,7 +15,10 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background: #000;
+  background: rgb(43, 41, 41);
   color: #e7ecef;
+  font-size: 0.75rem;
+  font-weight: 200;
+  padding: 20px 0px;
 }
 </style>

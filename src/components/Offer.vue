@@ -10,7 +10,9 @@
           :key="link.id"
           :name="link.name"
           :offer1="link.offer1"
+          :price1="link.price1"
           :offer2="link.offer2"
+          :price2="link.price2"
           :image="link.image"
         />
       </div>
@@ -28,22 +30,29 @@ export default {
         {
           id: 1,
           name: "CUTS",
-          offer1: "Klasyczne strzyżenie (30 min.) 50 zł",
-          offer2: "Królewskie strzyżenie (60 min.) 70 zł",
+          offer1: "Klasyczne strzyżenie (30 min.)",
+          price1: "50 zł",
+          offer2: "Królewskie strzyżenie (60 min.)",
+          price2: "70 zł",
           image: require("../assets/scissors.png"),
         },
         {
           id: 2,
           name: "SHAVES",
-          offer1: "Golenie klasyczne (30min) 40zł",
-          offer2: "Królewskie golenie (30 min.) 70 zł",
+          offer1: "Golenie klasyczne (30min)",
+          price1: "40zł",
+          offer2: "Królewskie golenie (30 min.)",
+          price2: "70 zł",
           image: require("../assets/razor.png"),
         },
         {
           id: 3,
           name: "COMBOS",
-          offer1: "Komplet (30 min.) 80 zł",
-          offer2: "Tuszowanie siwizny (30 min.) 50-100 zł",
+          offer1: "Komplet (30 min.)",
+          price1: "80 zł",
+          offer2: "Tuszowanie siwizny (30 min.)",
+          price2: "50-100 zł",
+
           image: require("../assets/barber.png"),
         },
       ],
@@ -59,12 +68,12 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 8rem 0rem;
 }
 
 .offer {
   width: 80%;
   text-align: center;
-  padding: 10rem 0rem;
 }
 
 .offer--list {

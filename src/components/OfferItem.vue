@@ -6,7 +6,9 @@
     <p>Królewskie strzyżenie (60 min.) 70</p> -->
     <h4>{{ name }}</h4>
     <p>{{ offer1 }}</p>
+    <p class="price">{{ price1 }}</p>
     <p>{{ offer2 }}</p>
+    <p class="price">{{ price2 }}</p>
     <Button
       :buttonText="buttonText"
       style="border: 2px solid #000; color: #000"
@@ -28,7 +30,9 @@ export default {
     id: Number,
     name: String,
     offer1: String,
+    price1: String,
     offer2: String,
+    price2: String,
     image: String,
   },
 };
@@ -56,6 +60,11 @@ h4 {
 p {
   font-size: 1.25rem;
   font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.price {
   margin-bottom: 1rem;
+  font-weight: 200;
 }
 </style>

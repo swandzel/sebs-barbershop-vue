@@ -42,12 +42,12 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 8rem 0rem;
 }
 
 .about {
   width: 80%;
   text-align: center;
-  padding: 10rem 0rem;
 }
 
 h4 {

@@ -54,7 +54,7 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10rem 0rem;
+  padding: 8rem 0rem;
 }
 .team {
   display: flex;

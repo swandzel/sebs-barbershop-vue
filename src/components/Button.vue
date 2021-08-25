@@ -11,7 +11,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 button {
   color: #e7ecef;
   border: 2px solid #e7ecef;
@@ -22,6 +22,7 @@ button {
   cursor: pointer;
   text-align: center;
   text-transform: uppercase;
+  max-width: 400px;
 }
 button:hover {
   background-color: #e7ecef;
