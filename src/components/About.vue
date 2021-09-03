@@ -5,7 +5,7 @@
       <h2>Trafiłeś w ręce fachowców</h2>
 
       <p>
-        Z pasji do fryzjerstwa w 2014 roku powstał Lucjan`s Barber Shop,
+        Z pasji do fryzjerstwa w 2010 roku powstał <strong>Seb'S Barber Shop</strong>,
         najbardziej męski salon w mieście. Pracujemy na najlepszych na rynku
         kosmetykach przeznaczonych właśnie dla mężczyzn.
       </p>

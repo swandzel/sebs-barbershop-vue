@@ -2,7 +2,7 @@
   <section id="oferta">
     <div class="offer">
       <h4>Łączymy rzemiosło z pasją, tradycję z nowoczesnością</h4>
-      <h2>LUCJAN`S BARBER SHOP<br />CUT-SHAVE-COFFE</h2>
+      <h2>seb`S BARBER SHOP<br />CUT-SHAVE-COFFE</h2>
       <p>Słowem – zadbamy kompleksowo o Twój wizerunek, włosy i zarost:</p>
       <div class="offer--list">
         <OfferItem

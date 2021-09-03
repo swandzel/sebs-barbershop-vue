@@ -21,8 +21,8 @@
             barberzy z naszego salonu, którzy doskonalą swoje rzemiosło już od
             kilkunastu lat. Naszą siłą jest praktyka - najlepsze źródło wiedzy.
             Szkolenie przewiduje pracę z modelem, zgodnie z autorskim
-            scenariuszem opracowanym w ramach ``Lucjan's Barber Shop Academy
-            Look&Wok``. Wysoką efektywność szkolenia gwarantuje system pracy,
+            scenariuszem opracowanym w ramach Seb's Barber Shop Academy
+            Look & Work. Wysoką efektywność szkolenia gwarantuje system pracy,
             gdzie część zadań wykonuje nauczyciel, a część uczeń pod stałym
             nadzorem opiekuna. Podczas całego szkolenia wykorzystujemy wyłącznie
             najwyższej jakości, niezawodny sprzęt i najlepsze kosmetyki. Nie
